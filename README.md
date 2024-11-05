@@ -58,3 +58,7 @@ Find the top 3 regions by subscription cancellations.
 
 Find the total number of active and canceled subscriptions.
 
+## Data Analysis
+
+Total Revenue = SUM('SubscriptionTable'[Revenue])
+
