@@ -64,5 +64,7 @@ Total Revenue = SUM('SubscriptionTable'[Revenue])
 
 Average Duration = AVERAGE('SubscriptionTable'[SubscriptionDuration])
 
+## Data Visualization
+
 
 
