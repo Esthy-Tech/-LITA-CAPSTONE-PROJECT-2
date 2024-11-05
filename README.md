@@ -62,3 +62,7 @@ Find the total number of active and canceled subscriptions.
 
 Total Revenue = SUM('SubscriptionTable'[Revenue])
 
+Average Duration = AVERAGE('SubscriptionTable'[SubscriptionDuration])
+
+
+
